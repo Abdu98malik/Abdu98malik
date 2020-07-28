@@ -1,16 +1,15 @@
-### Hi there 👋
+# Assalamu alaykum 👋
 
-<!--
-**Abdu98malik/Abdu98malik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer from Uzbekistan. Currently I'm working as a Java developer. 
+I know:
+```
+Languages         Framework/technology
+- Java            Spring boot/Webflux
+- Javascript      Jquery
+- SQL/NoSql       Postgresql/Mysql/MongoDB/ElasticSearch      
+- Go              Algorithms
+- C/C++           Data Structures
+- Python          Numpy/Pandas
+- PHP             Yii2
+- HTML/CSS        Responsive
+```
