@@ -10,6 +10,6 @@ Languages         Framework/technology
 - Go              Algorithms
 - C/C++           Data Structures
 - Python          Numpy/Pandas
-- PHP             Yii2
+- PHP             Laravel/Yii2
 - HTML/CSS        Responsive
 ```
